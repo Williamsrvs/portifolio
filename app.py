@@ -182,7 +182,7 @@ col1, col2,col3,col4,col5,col6 = st.columns(6)
 
 # Conteúdo da primeira coluna
 with col1:
-    st.image('Imagem', width=200,caption="Análise Produção Indústria")
+    st.image("new.JPG", width=200,caption="Análise Produção Indústria")
     st.markdown("[Análise Dados Produção Indústria](https://app.powerbi.com/view?r=eyJrIjoiMjg4Y2YzZDYtMmVmMi00ZmQ1LWJkNTgtOTFmNjQzYzVkZjY3IiwidCI6IjMyMzQxYTA2LWI2OTAtNDgzNC05NGEzLWQwYjJmN2JkYTdlMCJ9)")
 
 # Conteúdo da segunda coluna
