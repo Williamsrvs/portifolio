@@ -187,27 +187,27 @@ with col1:
 
 # Conteúdo da segunda coluna
 with col2:
-    st.image('filantropia.png', width=200,caption="Análise Dados Filantropia")
+    st.image("filantropia.png", width=200,caption="Análise Dados Filantropia")
     st.markdown("[Análise Dados Filantropia](https://app.powerbi.com/view?r=eyJrIjoiMzVmYWM0MTQtZTE3OC00MWFlLWJiY2ItNmRhMTAxNDc5MjQxIiwidCI6IjMyMzQxYTA2LWI2OTAtNDgzNC05NGEzLWQwYjJmN2JkYTdlMCJ9)")
 
 # Conteúdo da terceira coluna
 with col3:
-    st.image('construcao.png', width=200,caption="Análise Dados Pedidos Logística")
+    st.image("construcao.png", width=200,caption="Análise Dados Pedidos Logística")
     st.markdown("[Análise dados Pedidos Logística](https://app.powerbi.com/view?r=eyJrIjoiZDFlOTRiMzQtMGQ3ZC00YjU1LWJiMTctMGFkMzE4YmI3Yjg3IiwidCI6IjMyMzQxYTA2LWI2OTAtNDgzNC05NGEzLWQwYjJmN2JkYTdlMCJ9)")
 
 # Conteúdo da quarta coluna
 with col4:
-    st.image('rot.png', width=200,caption="Análise Roteirização")
+    st.image("rot.png", width=200,caption="Análise Roteirização")
     st.markdown("[Análise Roteirização](https://app.powerbi.com/view?r=eyJrIjoiYzU5ZGY3MzYtZTYzNS00MWU5LThmMDktMWM0YjA5NDlkMmE4IiwidCI6IjMyMzQxYTA2LWI2OTAtNDgzNC05NGEzLWQwYjJmN2JkYTdlMCJ9)")
 
 # Conteúdo da quinta coluna
 with col5:
-    st.image('fin.png', width=200,caption="Análise Financeira")
+    st.image("fin.png", width=200,caption="Análise Financeira")
     st.markdown("[Análise Financeira](https://app.powerbi.com/view?r=eyJrIjoiNjUxYmUyYzktZjFjMy00YzgxLThhYzctZmQyMzUxZjQwYzQ0IiwidCI6IjMyMzQxYTA2LWI2OTAtNDgzNC05NGEzLWQwYjJmN2JkYTdlMCJ9)")
 
 # Conteúdo da quinta coluna
 with col6:
-    st.image('prf.png', width=200,caption="Análise dados Acidentes trânsito")
+    st.image("prf.png", width=200,caption="Análise dados Acidentes trânsito")
     st.markdown("[Análise dados Acidentes trânsito](https://app.powerbi.com/view?r=eyJrIjoiNWJhNGNlNDktM2I2MC00OWU5LWFhOGItZjkxZGNhOWNiOTQ4IiwidCI6IjMyMzQxYTA2LWI2OTAtNDgzNC05NGEzLWQwYjJmN2JkYTdlMCJ9)")
 
 with tabs[4]:
