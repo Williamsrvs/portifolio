@@ -278,11 +278,11 @@ Apresentamos nossos serviços completos em Power BI, desenvolvimento em Python, 
         - Telefone: (82) 98863-9394 / 98109-0042
    
     ''')
-    #Faça o Download do curículo
+  #Faça o Download do curículo
     st.download_button(
         label="Download do Curículo",
         data="Williams_Rvs.pdf",
-        file_name="curriculo_williams.pdf",
+        file_name="Arquivos_texto\curriculo_williams.pdf",
         mime="application/pdf"
     )
 
