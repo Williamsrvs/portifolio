@@ -180,17 +180,17 @@ col1, col2,col3,col4,col5,col6 = st.columns(6)
 
 # Conteúdo da primeira coluna
 with col1:
-    st.image('newplast.png', width=200,caption="Análise Produção Indústria")
+    st.image('new.png', width=200,caption="Análise Produção Indústria")
     st.markdown("[Análise Dados Produção Indústria](https://app.powerbi.com/view?r=eyJrIjoiMjg4Y2YzZDYtMmVmMi00ZmQ1LWJkNTgtOTFmNjQzYzVkZjY3IiwidCI6IjMyMzQxYTA2LWI2OTAtNDgzNC05NGEzLWQwYjJmN2JkYTdlMCJ9)")
 
 # Conteúdo da segunda coluna
 with col2:
-    st.image('appae.png', width=200,caption="Análise Dados Filantropia")
+    st.image('filantropia.png', width=200,caption="Análise Dados Filantropia")
     st.markdown("[Análise Dados Filantropia](https://app.powerbi.com/view?r=eyJrIjoiMzVmYWM0MTQtZTE3OC00MWFlLWJiY2ItNmRhMTAxNDc5MjQxIiwidCI6IjMyMzQxYTA2LWI2OTAtNDgzNC05NGEzLWQwYjJmN2JkYTdlMCJ9)")
 
 # Conteúdo da terceira coluna
 with col3:
-    st.image('carajas.png', width=200,caption="Análise Dados Pedidos Logística")
+    st.image('construcao.png', width=200,caption="Análise Dados Pedidos Logística")
     st.markdown("[Análise dados Pedidos Logística](https://app.powerbi.com/view?r=eyJrIjoiZDFlOTRiMzQtMGQ3ZC00YjU1LWJiMTctMGFkMzE4YmI3Yjg3IiwidCI6IjMyMzQxYTA2LWI2OTAtNDgzNC05NGEzLWQwYjJmN2JkYTdlMCJ9)")
 
 # Conteúdo da quarta coluna
