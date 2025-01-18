@@ -1,5 +1,8 @@
 import streamlit as st
 import webbrowser
+from PIL import Image
+import os
+
 
 #Ajustando a página para a largura automática
 st.set_page_config(layout="wide")
